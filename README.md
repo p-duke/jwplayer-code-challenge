@@ -17,7 +17,9 @@ important not to "reinvent the wheel" and it provided all the neccessary functio
 **Running the application**:
 
 `git clone https://github.com/p-duke/jwplayer-code-challenge.git`
+
 `cd jwplayer-code-challenge'`
+
 `npm install && grunt`
 
 The page should automatically open to http://localhost:8080/
