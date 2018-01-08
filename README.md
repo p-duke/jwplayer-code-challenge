@@ -11,7 +11,7 @@ included a 'Share', 'Add to playlist', and 'Not interested' menu items because I
 I used Grunt, Less, and Embedded JS templates to build the webpage. I created a responsive grid with LESS and focused on using two partial views for the carousels. 
 Grunt tasks are configured to fetch the json data, and build the LESS and EJS files. I also included a simple Grunt server to serve the assets. The final webpage can 
 be viewed by simply running 'grunt' (see instructions below). All of my development code is stored in the "src/" directory and compiled to the "public/" directory. 
-I made the webpage responsive to smartphone, tablet, and desktop screens. For the carousel functionality I used a jQuery library called 'slick' because it provided all the neccessary functionality.
+I made the webpage responsive to smartphone, tablet, and desktop screens. For the carousels I used a jQuery library called 'slick' because it provided all the neccessary functionality.
 
 **Running the application**:
 
